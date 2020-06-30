@@ -10,7 +10,7 @@ We have tried to make our solution as simple and efficient as possible
 ## Key point
 The most important thing that we have made is by selecting the weeks within the flood period. Which also have a important precipitation amount. It may seem like including all the week's precipitation seems to be helpful but it's not. For example, the model learns that having a huge amount of precipitation in week X affects the percentage of the flood and vice versa then a localization where it hadn't been rainy for the week X, but what it will have in the next week will not be well predicted (sort of overfitting). The problem is very serious due to the difference between the train and the test. That is why we choose to use just weeks 7, 8, and 9.
  
- At next we added features that describe if the amount of precip is increasing or decreasing during the disccused period. More over we indicated the week with maximum of precip.
+ At next we added features that describe if the amount of precip is increasing or decreasing during the disccused period. More over we indicated the week with maximum of precipitation.
  
  Then we evaluated the maximum of precipitation within two weeks.
  
