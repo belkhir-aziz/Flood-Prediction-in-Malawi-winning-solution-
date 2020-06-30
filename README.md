@@ -12,7 +12,7 @@ The most important thing that we have made is by selecting the weeks within the 
  
  At next we added features that describe if the amount of precip is increasing or decreasing during the disccused period. More over we indicated the week with maximum of precip.
  
- Then we evaluate the maximum of precipitation within two weeks.
+ Then we evaluated the maximum of precipitation within two weeks.
  
  After, we extracted soil data from "https://soilgrids.org/".
  
