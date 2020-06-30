@@ -1,5 +1,6 @@
 # Flood-Prediction-in-Malawi-winning-solution
 
+
 ## Overview
 In recent decades, countries across Africa have experienced an increase in the frequency and severity of floods. Malawi is particularly vulnerable to flooding. In March 2019, Cyclone Idai impacted more than 922,900 people, with 56 deaths, 577 injuries, and more than 82,700 people were displaced. Food insecurity also rose sharply due to the destruction of crops in a country that is highly dependent on rainfed agriculture.
 
@@ -19,6 +20,7 @@ The most important thing that we have made is by selecting the weeks within the 
  And finnaly we did some outlier detection using EllipticEnvelope.
  
 
-
+## Hope you enjoy the solution
+# linkedin contact: https://www.linkedin.com/in/aziz-belkhir/
 
  
