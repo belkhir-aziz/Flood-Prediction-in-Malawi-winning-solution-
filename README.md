@@ -11,5 +11,9 @@ The most important thing that we have made is by selecting the weeks within the 
  
  And finnaly we do some outlier detection using EllipticEnvelope.
  
- ## final date
+ ## final data
+ 
+![data](https://user-images.githubusercontent.com/54355576/86121922-2afa4080-bad7-11ea-9dfd-4d54c98ccc14.png)
+
+
  
